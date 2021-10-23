@@ -30,7 +30,7 @@ os.system('clear')
 
 print('  \n\n\nGetting update ...')
 
-time.sleep(0.5)
+
 
 os.system('git pull')
 
